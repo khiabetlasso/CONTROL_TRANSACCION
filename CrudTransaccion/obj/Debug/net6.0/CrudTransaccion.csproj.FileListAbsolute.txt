@@ -1,0 +1,7 @@
+F:\Ejercicio VSC\CrudTransaccion\CrudTransaccion\obj\Debug\net6.0\CrudTransaccion.csproj.AssemblyReference.cache
+F:\Ejercicio VSC\CrudTransaccion\CrudTransaccion\obj\Debug\net6.0\CrudTransaccion.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ejercicio VSC\CrudTransaccion\CrudTransaccion\obj\Debug\net6.0\CrudTransaccion.AssemblyInfoInputs.cache
+F:\Ejercicio VSC\CrudTransaccion\CrudTransaccion\obj\Debug\net6.0\CrudTransaccion.AssemblyInfo.cs
+F:\Ejercicio VSC\CrudTransaccion\CrudTransaccion\obj\Debug\net6.0\CrudTransaccion.csproj.CoreCompileInputs.cache
+F:\Ejercicio VSC\CrudTransaccion\CrudTransaccion\obj\Debug\net6.0\CrudTransaccion.MvcApplicationPartsAssemblyInfo.cs
+F:\Ejercicio VSC\CrudTransaccion\CrudTransaccion\obj\Debug\net6.0\CrudTransaccion.MvcApplicationPartsAssemblyInfo.cache
